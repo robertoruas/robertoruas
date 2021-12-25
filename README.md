@@ -8,7 +8,7 @@
 ##
 
 ### 👨‍💻 I’m work at 
-<a href="https://www.stone.com.br">StoneCo</a>
+<a href="https://www.stone.com.br"><img height="40" width="40" src="https://avatars.githubusercontent.com/u/8750624?s=200&v=4"/></a>
 
 ### 👨‍🎓 Knowledge
 <div style="display=inline-block">
